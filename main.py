@@ -42,7 +42,7 @@ Step 5: Estimate repair costs using the provided reference table.
 Output Format:
 ---
 **Car Insurance Damage Report**
-- Detected Parts Damaged: [List]
+- Detected Parts Damaged: [List] 
 - Damage Severity: [Mild / Moderate / Severe]
 - Estimated Repair Costs:
   - Part: $Amount
@@ -53,8 +53,6 @@ If applicable:
 - Note: The car appears undamaged in the image provided. Please upload a more detailed photo or describe internal damage.
 
 """
-
-
 
 # Set up BigQuery client
 bq_client = bigquery.Client()
@@ -124,7 +122,7 @@ gr.Interface(
         gr.Image(label="Upload a damaged car image", type="filepath")
     ],
     outputs=gr.Textbox(label="Insurance Estimate (from Gemini)"),
-    title=" Car Insurance Estimator (Gemini AI + BigQuery)",
+    title=" Car Insurance Estimator",
     description="Describe the accident and upload a car image. Gemini AI uses your input and BigQuery repair cost data to provide a claim estimate.",
     allow_flagging="never"
 # ).launch(inbrowser=True)
