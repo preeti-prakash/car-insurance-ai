@@ -77,17 +77,10 @@ def generate_insurance_response(user_description, image):
     reference_costs = get_reference_costs()
 
     # User prompt construction
-    user_prompt = f"""User Description:
-{user_description.strip() if user_description else "No description provided."}
-
-Image: {'Provided' if image else 'Not provided'}
-"""
-
-    full_prompt = f"""{SYSTEM_PROMPT}
-{reference_costs}
-
-{user_prompt}
-"""
+    user_prompt = f"""User Description:{user_description.strip() if user_description else "No description provided."}
+    Image: {'Provided' if image else 'Not provided'}"""
+    
+    full_prompt = f"""{SYSTEM_PROMPT}{reference_costs}{user_prompt}"""
 
     parts = [{"text": full_prompt}]
     
