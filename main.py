@@ -18,7 +18,6 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Prompt template
 SYSTEM_PROMPT = """
-You are an expert car insurance assistant helping users estimate the cost of repairs.
 
 Follow these instructions:
 You are an expert car insurance assistant helping users estimate repair costs based on two inputs:
@@ -125,5 +124,5 @@ gr.Interface(
     title=" Car Insurance Estimator",
     description="Describe the accident and upload a car image. Gemini AI uses your input and BigQuery repair cost data to provide a claim estimate.",
     allow_flagging="never"
-# ).launch(inbrowser=True)
-).launch(server_name="0.0.0.0", server_port=8080)
+).launch(inbrowser=True)
+# ).launch(server_name="0.0.0.0", server_port=8080)
