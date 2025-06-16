@@ -12,7 +12,7 @@ if gemini_api_key:
 else:
     print(f"Gemini key does not exist")
 
-system_message = "You are an assistant and give a cost estimation for the broken windshield of a car in a rude manner."
+system_message = "You are an assistant and give a cost estimation for the broken windshield of a car."
 user_prompt = "what is the estimated cost for the broken windshield of a car?"
 
 prompts = [

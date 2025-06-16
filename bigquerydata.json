@@ -1,0 +1,642 @@
+[
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "715"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "715"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "715"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "715"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "710"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "710"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "710"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "710"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "705"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "705"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "705"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "705"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "700"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "700"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "700"
+  },
+  {
+    "Part": "Front bumper",
+    "Avg_Cost_USD": "700"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "160"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "160"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "160"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "160"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "155"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "155"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "155"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "155"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "150"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "150"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "150"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "150"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "162"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "162"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "162"
+  },
+  {
+    "Part": "Headlight",
+    "Avg_Cost_USD": "162"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "562"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "562"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "562"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "562"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "560"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "560"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "560"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "560"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "555"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "555"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "555"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "555"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "550"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "550"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "550"
+  },
+  {
+    "Part": "Hood",
+    "Avg_Cost_USD": "550"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "450"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "450"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "450"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "450"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "465"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "465"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "465"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "465"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Left door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "412"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "412"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "412"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "412"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "410"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "410"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "410"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "410"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "405"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "405"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "405"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "405"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "400"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "400"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "400"
+  },
+  {
+    "Part": "Radiator",
+    "Avg_Cost_USD": "400"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "665"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "665"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "665"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "665"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "660"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "660"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "660"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "660"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "655"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "655"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "655"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "655"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "650"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "650"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "650"
+  },
+  {
+    "Part": "Rear bumper",
+    "Avg_Cost_USD": "650"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "455"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "458"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "458"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "458"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "458"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "462"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "462"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "462"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "462"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Right door",
+    "Avg_Cost_USD": "460"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "212"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "212"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "212"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "212"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "210"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "210"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "210"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "210"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "205"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "205"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "205"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "205"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "200"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "200"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "200"
+  },
+  {
+    "Part": "Side mirror",
+    "Avg_Cost_USD": "200"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "137"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "137"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "137"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "137"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "132"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "132"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "132"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "132"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "135"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "135"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "135"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "135"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "130"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "130"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "130"
+  },
+  {
+    "Part": "Taillight",
+    "Avg_Cost_USD": "130"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "312"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "312"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "312"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "312"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "310"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "310"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "310"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "310"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "305"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "305"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "305"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "305"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "300"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "300"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "300"
+  },
+  {
+    "Part": "Windshield",
+    "Avg_Cost_USD": "300"
+  }
+]
